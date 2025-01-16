@@ -42,3 +42,5 @@ Rotten Tomatoes(https://www.rottentomatoes.com/)
 TheMovieDB(https://www.themoviedb.org/)
 
 The Numbers (https://www.the-numbers.com/)
+
+<img src="Images/prod_budj and total_gross correlation">
