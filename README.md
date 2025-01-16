@@ -43,4 +43,14 @@ TheMovieDB(https://www.themoviedb.org/)
 
 The Numbers (https://www.the-numbers.com/)
 
-![Image](https://github.com/user-attachments/assets/331c3010-5b1e-4e8c-b1ad-6c3607ee42e4)
+# Chcking for colinearity using Heatmap
+![Image](https://github.com/user-attachments/assets/a71aa4a3-feff-4fe9-b4c5-9548258df73a)
+
+# Comparison of revenue generated in the domestic and foreign markets
+![Image](https://github.com/user-attachments/assets/d6fa00cc-54b7-4266-88cc-2301e46a3636)
+
+# Genre income from the domestic market
+![Image](https://github.com/user-attachments/assets/8c37462f-457a-42cc-9c1f-b1742f488c6e)
+
+# Top 10 genres earning the most amount of money
+![Image](https://github.com/user-attachments/assets/b854a3a1-1d01-4e43-bbd7-79c64b187522)
