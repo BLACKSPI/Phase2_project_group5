@@ -43,4 +43,4 @@ TheMovieDB(https://www.themoviedb.org/)
 
 The Numbers (https://www.the-numbers.com/)
 
-<img src="Images/prod_budj and total_gross correlation">
+![Image](https://github.com/user-attachments/assets/331c3010-5b1e-4e8c-b1ad-6c3607ee42e4)
