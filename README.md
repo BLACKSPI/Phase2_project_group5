@@ -52,7 +52,7 @@ The Numbers (https://www.the-numbers.com/)
 # Relationship between Production Budget and  the Total Gross
 ![Image](https://github.com/BLACKSPI/Phase2_project_group5/blob/f5995c57fc69eaf53930817e61e05cd661cc3cfa/model.png).
 
-Total Domestic vs Total foreign Gross by Genre
+# Total Domestic vs Total foreign Gross by Genre
 ![Image](https://github.com/BLACKSPI/Phase2_project_group5/blob/414a844183b6aab9bd4321ccb9cf3db5c5612c8e/download%20(2).png)
 
 
