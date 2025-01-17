@@ -48,7 +48,7 @@ The Numbers (https://www.the-numbers.com/)
 
 
 # Comparison of revenue generated in the domestic and foreign markets
-![Image](https://github.com/user-attachments/assets/d6fa00cc-54b7-4266-88cc-2301e46a3636)
+![Image](https://github.com/BLACKSPI/Phase2_project_group5/blob/81056389182adfbb39a6e52684bba66dc67394a0/download%20(1).png)
 
 
 # Genre income from the domestic market
