@@ -59,3 +59,11 @@ The Numbers (https://www.the-numbers.com/)
 
 ![Image](https://github.com/user-attachments/assets/b854a3a1-1d01-4e43-bbd7-79c64b187522)
 
+# Recommendations
+## 1. Invest in the highly rated genres
+The business should expand into genres where success is closely correlated with higher ratings. The genres of commedy|drama, drama, and drama|sport and fitness show that favorable reviews greatly increase their revenue.
+## 2. Target global market
+The company should consider investing in the global audience. Our analysis indicates that almost every genre does well in the foreign market compared to the domestic market.
+## 3.  Ensure a balanced budget to maximize ROI.
+The company should give priority to making films with budgets between $10 million and $20 million because there are the most successful projects in this range.
+
